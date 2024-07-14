@@ -5,10 +5,12 @@
 
 ## About me 
 ✨ Engineering Graduate <br>
-✨ passionate about programming and web designin <br>
 ✨ RMKEC'24 <br>
+✨ passionate about programming and web designing <br>
 ✨ Eager to learn and explore new technologies and innovations in the field <br>
+✨ Proficient in a range of programming languages, including Frontend <br>
 ✨ Committed to building a career in the tech industry <br>
+✨ As a challenge enthusiastic, I am diving into the data science world <br>
 
 
 ## Socials:
