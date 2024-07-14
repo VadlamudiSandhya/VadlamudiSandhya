@@ -2,10 +2,13 @@
 
 # Hello There! Welcome to my GitHub
 <br>
-## About me 
-Engineering Graduate
-passionate about designing
 
+## About me 
+✨ Engineering Graduate <br>
+✨ passionate about programming and web designin <br>
+✨ RMKEC'24 <br>
+✨ Eager to learn and explore new technologies and innovations in the field <br>
+✨ Committed to building a career in the tech industry <br>
 
 
 ## Socials:
