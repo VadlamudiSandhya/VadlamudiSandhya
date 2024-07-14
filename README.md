@@ -45,8 +45,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VadlamudiSandhya&theme=github_dark)
   
 <br/>
-
-[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VadlamudiSandhya&layout=compact&theme=radical)]
   
 <br/>
 
