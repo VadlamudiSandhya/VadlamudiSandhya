@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/706c6600-5d11-4590-b941-ccad00a360c5)## Hi there 👋
 <!--
 **VadlamudiSandhya/VadlamudiSandhya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
