@@ -1,6 +1,6 @@
 ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/706c6600-5d11-4590-b941-ccad00a360c5)
 
-# Hello There! Welcome to my GitHub
+# Hello There👋 Welcome to my GitHub!
 <br>
 
 ## About me 
