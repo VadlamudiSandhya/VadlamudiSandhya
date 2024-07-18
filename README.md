@@ -57,7 +57,7 @@
   
 <br/>
 
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadlamudiSandhya&show_icons=true&theme=radical)
+![Sandhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=VadlamudiSandhya&show_icons=true&theme=radical)
   
 <br/>
   
