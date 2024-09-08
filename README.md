@@ -4,9 +4,9 @@
 <br>
 
 ## About me 
-#### 🎓 Engineering Graduate </b>  <br>
+#### 🎓 Engineering Graduate <br>
 #### 🏫 RMKEC'24 <br>
-#### 👩‍💻 passionate about programming and web designing. <br>
+#### 👩‍💻 Passionate about programming and web designing. <br>
 #### 💡 Eager to learn and explore new technologies and innovations in the field. <br>
 #### ✍️ Proficient in a range of programming languages. <br>
 #### 💭 Committed to building a career in the tech industry. <br>
